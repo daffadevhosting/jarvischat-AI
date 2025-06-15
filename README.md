@@ -39,7 +39,6 @@
 | Tampilan dashboard dengan chatroom |
 |------------------------------------|
 |  ![](./public/jarvischat-pc.png)   |
-
 |                       Tampilan dashboard mobile                         |
 |------------------------------------|------------------------------------|
 |  ![](./public/jarvischat-room.png)   |  ![](./public/jarvischat-menu.png)   |
